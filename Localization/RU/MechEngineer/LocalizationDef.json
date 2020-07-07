@@ -11598,8 +11598,8 @@
     },
     {
       "id": "MechEngineer.Exhaust.Long",
-      "original": "Rare Ammo1",
-      "prevOriginal": "Rare Ammo",
+      "original": "Rare Ammo",
+      "prevOriginal": "Rare Ammo1",
       "content": "Редкие боеприпасы",
       "localizatorComment": null,
       "systemComment": "",
@@ -11610,12 +11610,12 @@
     },
     {
       "id": "MechEngineer.Exhaust.Short",
-      "original": "Rare1",
+      "original": "Rare",
       "prevOriginal": "Rare1",
       "content": "Редкие",
       "localizatorComment": "ВВОДНЫЙ ИНСТРУКТАЖ",
       "systemComment": "",
-      "backColor": "#FFFFFF",
+      "backColor": "#FF0000",
       "textColor": "#A5A5A5",
       "filename": "BonusDescriptions_AmmoTypes",
       "processor": "MechEngineer.Settings.Short"
