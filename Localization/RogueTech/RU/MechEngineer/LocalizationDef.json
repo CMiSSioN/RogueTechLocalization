@@ -90,8 +90,8 @@
     },
     {
       "id": "MechEngineer.1shot.Short",
-      "original": "1-shotU",
-      "prevOriginal": "1-shot",
+      "original": "1-shot",
+      "prevOriginal": "1-shotU",
       "content": "Однозарядное",
       "localizatorComment": null,
       "systemComment": "",
@@ -11611,11 +11611,11 @@
     {
       "id": "MechEngineer.Exhaust.Short",
       "original": "Rare",
-      "prevOriginal": "Rare1",
+      "prevOriginal": "Rare",
       "content": "Редкие",
       "localizatorComment": "ВВОДНЫЙ ИНСТРУКТАЖ",
       "systemComment": "",
-      "backColor": "#FF0000",
+      "backColor": "#FFFFFF",
       "textColor": "#A5A5A5",
       "filename": "BonusDescriptions_AmmoTypes",
       "processor": "MechEngineer.Settings.Short"
@@ -14169,7 +14169,7 @@
       "original": "H Rifle Ammo",
       "prevOriginal": "H Rifle Ammo",
       "content": "Патроны для тяжёлого ружья",
-      "localizatorComment": "- Владимир Voha Петерс 5500р",
+      "localizatorComment": "- Владимир Voha Петерс 12500р",
       "systemComment": "",
       "backColor": "#FFFFFF",
       "textColor": "#A5A5A5",
